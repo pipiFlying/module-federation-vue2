@@ -1,5 +1,7 @@
-node_modules
+/share/node_modules
+
+/user/node_modules
 
 package-lock.json
 
-dist
+/dist
